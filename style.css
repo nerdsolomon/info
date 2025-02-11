@@ -12,7 +12,9 @@
 
 .landing {
     background-image: url("images/code.png");
-    background-size: 100%;
     background-color: grey;
     height:500px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
