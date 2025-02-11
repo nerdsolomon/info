@@ -2,19 +2,14 @@
     width: 100px;
 }
 
+.row {
+    background-color: grey;
+}
+
 #contact {
     background-color: #f0f0f0;
 }
 
 .ratio-1x1 {
     aspect-ratio: 1/1;
-}
-
-.landing {
-    background-image: url("images/code.png");
-    background-color: grey;
-    height:700px;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
