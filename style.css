@@ -12,5 +12,6 @@
 
 .landing {
     background-image: url("code.png");
+    background-color: #1d252b;
     opacity: 0.5;
 }
