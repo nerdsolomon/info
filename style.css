@@ -3,12 +3,12 @@
 }
 
 .intro {
-    backgroud: url(images/code.png);
+    backgroud: url("images/code.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cont;
-    height: 500px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
 }
