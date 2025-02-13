@@ -3,7 +3,7 @@
 }
 
 .intro {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/code.png");
+    background: url("images/code.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -11,6 +11,7 @@
     height: 350px;
     width: 100%;
     overflow: hidden;
+    filter: brightness(30%);
 }
 
 #contact {
