@@ -3,7 +3,7 @@
 }
 
 .intro {
-    background: rgba(0, 0, 0, 0.5)), url("images/code.png");
+    background: rgba(0, 0, 0, 0.3)), url("images/code.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
