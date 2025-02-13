@@ -7,10 +7,12 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    background-color: #1f252c;
     object-fit: cont;
     height: 300px;
     width: 100%;
     overflow: hidden;
+    opacity: 0.5;
 }
 
 #contact {
