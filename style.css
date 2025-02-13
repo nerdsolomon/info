@@ -3,23 +3,14 @@
 }
 
 .intro {
-    background: url("images/code.png");
+    background: rgba(0, 0, 0, 0.5)), url("images/code.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     object-fit: cont;
-    height: 300px;
+    height: 400px;
     width: 100%;
     overflow: hidden;
-    opacity: 0.5;
-}
-
-.intro p {
-    opacity: 1.0;
-}
-
-.intro span {
-    opacity: 1.0:
 }
 
 #contact {
