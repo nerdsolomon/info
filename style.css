@@ -3,7 +3,7 @@
 }
 
 .intro {
-    background: url(images/code.png);
+    background: url("images/code.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
